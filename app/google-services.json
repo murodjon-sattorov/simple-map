@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391517761167",
+    "project_id": "yotoqxona-task",
+    "storage_bucket": "yotoqxona-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391517761167:android:57df4c8bc856266221cafa",
+        "android_client_info": {
+          "package_name": "uz.murodjon_sattorov.yotoqxona_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391517761167-dl1l9n3vj94k9tkt5eb91qv5h7lnsplv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-zKRM8xxgHd2kwG43bXf2nldzPKKYuw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391517761167-dl1l9n3vj94k9tkt5eb91qv5h7lnsplv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

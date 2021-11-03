@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yotoqxona-task</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibXVyb2Rqb2huLXNhdHRvcm92IiwiYSI6ImNrdjQ1ZjB1czBrZnAybnBoMHoxdHNxbnoifQ.eEuav9P5e9i9v7J8N1c3qA</string>
+    <string name="tizimga_kirish">Авторизоваться</string>
+    <string name="ro_yhatdan_o_tish">Регистрация</string>
+    <string name="f_i_o">Ф.И.О</string>
+    <string name="universitet_nomi">Имя университета</string>
+    <string name="guruh_nomi">Имя группы</string>
+    <string name="e_mail">Эл. почта</string>
+    <string name="parol">Пароль</string>
+    <string name="talaba_id">Талаба ИД</string>
+    <string name="yangilash">Обновлять</string>
+    <string name="viloyat">Провинция</string>
+    <string name="tuman">Туман</string>
+    <string name="manzil">Адрес</string>
+    <string name="telefon">Телефон</string>
+    <string name="mening_ma_lumotlarim">Мой информация</string>
+    <string name="log_out">Выйти</string>
+    <string name="chiqishni_hohlaysizmi">Вы действительно хотите выйти из аккаунта?</string>
+    <string name="cancel">Отмена</string>
+</resources>

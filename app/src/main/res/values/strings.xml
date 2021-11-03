@@ -1,4 +1,21 @@
 <resources>
     <string name="app_name">Yotoqxona-task</string>
     <string name="mapbox_access_token">pk.eyJ1IjoibXVyb2Rqb2huLXNhdHRvcm92IiwiYSI6ImNrdjQ1ZjB1czBrZnAybnBoMHoxdHNxbnoifQ.eEuav9P5e9i9v7J8N1c3qA</string>
+    <string name="tizimga_kirish">Tizimga kirish</string>
+    <string name="ro_yhatdan_o_tish">Ro\'yhatdan o\'tish</string>
+    <string name="f_i_o">F.I.O</string>
+    <string name="universitet_nomi">Universitet nomi</string>
+    <string name="guruh_nomi">Guruh nomi</string>
+    <string name="e_mail">E-mail</string>
+    <string name="parol">Parol</string>
+    <string name="talaba_id">Talaba ID</string>
+    <string name="yangilash">Yangilash</string>
+    <string name="viloyat">Viloyat</string>
+    <string name="tuman">Tuman</string>
+    <string name="manzil">Manzil</string>
+    <string name="telefon">Telefon</string>
+    <string name="mening_ma_lumotlarim">Mening ma\'lumotlarim</string>
+    <string name="log_out">Accountdan chiqish</string>
+    <string name="chiqishni_hohlaysizmi">Rostdan ham Accoundan chiqishni hohlaysizmi</string>
+    <string name="cancel">Cancel</string>
 </resources>
